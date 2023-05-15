@@ -1,0 +1,15 @@
+#titulo1{
+    font-size: 100px;
+}
+
+#titulo2{
+    color: red;
+    text-shadow: 3px 3px 3px black;
+    font-style: oblique;
+    background-color: gray;
+    text-align: center;
+    margin: 0 30% 0 30%;
+    padding: 30px;
+    border: solid black 5px;
+    border-radius: 50px;
+}
